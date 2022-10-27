@@ -14,18 +14,18 @@ Reach me out: [LinkedIn Profile](https://www.linkedin.com/in/leomar-fonseca/)
 
 # PORTFOLIO PROJECTS 🗂️
 
-### 1. SUPER BOWL TV VIEWERS 🏈
+### 1. [SUPER BOWL TV VIEWERS 🏈](https://github.com/leomarfmn/super-bowl-viewers)
 <p>An end-to-end project that studies Super Bowl data and creates a Machine Learning model to predict amount of TV Viewers – from data collection all the way to model serialization.</p>
 
 <p align="center">Project image</p>
 <p align="center"> <img width="953" alt="Screen Shot 2022-10-18 at 11 01 18 AM" src="https://user-images.githubusercontent.com/108877184/196451662-dc2ae2e6-a388-4292-a3c2-bf22203da454.png"></p>
-<h5 align="center"> Tags: Python, Machine Learning, Data Analysis, Feature Engineering, Feature Selection</h5>
+<h5 align="center"> Tags: Python, Machine Learning, Regression, Data Analysis, Feature Engineering, Feature Selection</h5>
 <p><br></p>
 
 -----
 <p><br></p>
 
-### 2. MARK-TO-MARKET ON TESOURO DIRETO 📈
+### 2. [MARK-TO-MARKET ON TESOURO DIRETO 📈](https://github.com/leomarfmn/mark-to-market-on-tesouro-direto)
 <p>A web application built on Python to create visualizations and help analyze possible gains with mark-to-market operations on bonds issued and sold by the Brazilian government.</p>
 
 
@@ -38,7 +38,7 @@ Reach me out: [LinkedIn Profile](https://www.linkedin.com/in/leomar-fonseca/)
 <p><br></p>
 
 
-### 3. A SIMPLE SQL PROJECT 🎵
+### 3. [A SIMPLE SQL PROJECT 🎵](https://github.com/leomarfmn/a-simple-sql-project)
 <p>SQL project using Python, Google Colaboratory and other tools to perform queries and display relational-database knowledge, all the way from database architecture to select statements.</p>
 
 <p align="center">Project image</p>
